@@ -7,3 +7,7 @@
 # To run Test
 
 npm test
+
+# To run project
+
+node index.js
